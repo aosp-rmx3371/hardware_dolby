@@ -24,7 +24,6 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	system_specific: true,
 }
 
 android_app_import {
@@ -36,7 +35,6 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	system_specific: true,
 }
 
 android_app_import {
@@ -48,5 +46,4 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	system_specific: true,
 }
